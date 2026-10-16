@@ -1,9 +1,11 @@
 * {
     box-sizing: border-box;
+    border: #fdfdfd 2px solid;
 }
 
 body {
     background-color: aqua;
+    
 }
 
 .borde {
@@ -12,27 +14,27 @@ body {
 
 .caja1 {
     background-color: #547980;
-    height: 100px;
+    height: 50px;
 }
 
 .caja2 {
     background-color: #45ADA8;
-    height: 100px;
+    height: 300px;
 }
 
 .caja3 {
     background-color: #9DE0AD;
-    height: 100px;
+    height: 300px;
 }
 
 .caja4 {
     background-color: #E5FCC2;
-    height: 100px;
+    height: 300px;
 }
 
 .caja5 {
     background-color: #9CDDC8;
-    height: 100px;
+    height: 300px;
 }
 
 .caja6 {
